@@ -1,0 +1,8 @@
+/my-website
+  |-- /images               # Folder containing all image assets
+  |-- /css                  # Folder containing all CSS stylesheets
+  |-- /js                   # Folder containing JavaScript files
+  |-- index.html            # Main homepage of your website
+  |-- about.html            # Other website pages (e.g. about, contact)
+  |-- /fonts                # Custom fonts (optional)
+  |-- README.md             # Project overview (optional)
